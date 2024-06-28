@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericHostWpfApp", "Generi
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ソリューション項目", "ソリューション項目", "{67AF62F8-79A0-4CA8-913A-35DC9FA4845B}"
 	ProjectSection(SolutionItems) = preProject
-		REAME.md = REAME.md
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global
